@@ -1,0 +1,68 @@
+C:\Users\ahmet.albayrak\Documents\Visual Studio 2013\Projects\StajProje\StajProje\StajProje\bin\Debug\StajProje.exe.config
+C:\Users\ahmet.albayrak\Documents\Visual Studio 2013\Projects\StajProje\StajProje\StajProje\bin\Debug\StajProje.exe
+C:\Users\ahmet.albayrak\Documents\Visual Studio 2013\Projects\StajProje\StajProje\StajProje\bin\Debug\StajProje.pdb
+C:\Users\ahmet.albayrak\Documents\Visual Studio 2013\Projects\StajProje\StajProje\StajProje\obj\Debug\StajProje.GirisEkrani.resources
+C:\Users\ahmet.albayrak\Documents\Visual Studio 2013\Projects\StajProje\StajProje\StajProje\obj\Debug\StajProje.Properties.Resources.resources
+C:\Users\ahmet.albayrak\Documents\Visual Studio 2013\Projects\StajProje\StajProje\StajProje\obj\Debug\StajProje.csproj.GenerateResource.Cache
+C:\Users\ahmet.albayrak\Documents\Visual Studio 2013\Projects\StajProje\StajProje\StajProje\obj\Debug\StajProje.exe
+C:\Users\ahmet.albayrak\Documents\Visual Studio 2013\Projects\StajProje\StajProje\StajProje\obj\Debug\StajProje.pdb
+C:\Users\ahmet.albayrak\Documents\Visual Studio 2013\Projects\StajProje\StajProje\StajProje\obj\Debug\StajProje.csprojResolveAssemblyReference.cache
+C:\Users\ahmet.albayrak\Documents\Visual Studio 2013\Projects\StajProje\StajProje\StajProje\obj\Debug\StajProje.Veli.resources
+C:\Users\ahmet.albayrak\Documents\Visual Studio 2013\Projects\StajProje\StajProje\StajProje\obj\Debug\StajProje.Memur.resources
+C:\Users\ahmet.albayrak\Documents\Visual Studio 2013\Projects\StajProje\StajProje\StajProje\obj\Debug\StajProje.Ogrenci.resources
+C:\Users\ahmet.albayrak\Documents\Visual Studio 2013\Projects\StajProje\StajProje\StajProje\obj\Debug\StajProje.Ogretmen.resources
+C:\Users\ahmet.albayrak\Documents\Visual Studio 2013\Projects\StajProje\StajProje\StajProje\obj\Debug\StajProje.KayıtEkle.resources
+C:\Users\ahmet.albayrak\Documents\Visual Studio 2013\Projects\StajProje\StajProje\StajProje\obj\Debug\StajProje.NotGiris.resources
+C:\Users\ahmet.albayrak\Documents\Visual Studio 2013\Projects\StajProje\StajProje\StajProje\obj\Debug\StajProje.DersEkle.resources
+C:\Users\ahmet.albayrak\Documents\Visual Studio 2013\Projects\StajProje\StajProje\StajProje\obj\Debug\StajProje.DersSecim.resources
+C:\Users\ahmet.albayrak\Desktop\yedek\StajProje\StajProje\bin\Debug\StajProje.exe.config
+C:\Users\ahmet.albayrak\Desktop\yedek\StajProje\StajProje\obj\Debug\StajProje.exe
+C:\Users\ahmet.albayrak\Desktop\yedek\StajProje\StajProje\obj\Debug\StajProje.pdb
+C:\Users\ahmet.albayrak\Desktop\yedek\StajProje\StajProje\bin\Debug\StajProje.exe
+C:\Users\ahmet.albayrak\Desktop\yedek\StajProje\StajProje\bin\Debug\StajProje.pdb
+C:\Users\ahmet.albayrak\Desktop\yedek\StajProje\StajProje\obj\Debug\StajProje.csprojResolveAssemblyReference.cache
+C:\Users\ahmet.albayrak\Desktop\yedek\StajProje\StajProje\obj\Debug\StajProje.DersEkle.resources
+C:\Users\ahmet.albayrak\Desktop\yedek\StajProje\StajProje\obj\Debug\StajProje.DersSecim.resources
+C:\Users\ahmet.albayrak\Desktop\yedek\StajProje\StajProje\obj\Debug\StajProje.GirisEkrani.resources
+C:\Users\ahmet.albayrak\Desktop\yedek\StajProje\StajProje\obj\Debug\StajProje.KayıtEkle.resources
+C:\Users\ahmet.albayrak\Desktop\yedek\StajProje\StajProje\obj\Debug\StajProje.Memur.resources
+C:\Users\ahmet.albayrak\Desktop\yedek\StajProje\StajProje\obj\Debug\StajProje.NotGiris.resources
+C:\Users\ahmet.albayrak\Desktop\yedek\StajProje\StajProje\obj\Debug\StajProje.Ogrenci.resources
+C:\Users\ahmet.albayrak\Desktop\yedek\StajProje\StajProje\obj\Debug\StajProje.Ogretmen.resources
+C:\Users\ahmet.albayrak\Desktop\yedek\StajProje\StajProje\obj\Debug\StajProje.Properties.Resources.resources
+C:\Users\ahmet.albayrak\Desktop\yedek\StajProje\StajProje\obj\Debug\StajProje.Veli.resources
+C:\Users\ahmet.albayrak\Desktop\yedek\StajProje\StajProje\obj\Debug\StajProje.csproj.GenerateResource.Cache
+C:\Users\ahmet.albayrak\Documents\Visual Studio 2013\Projects\StajProje\StajProje\bin\Debug\StajProje.exe.config
+C:\Users\ahmet.albayrak\Documents\Visual Studio 2013\Projects\StajProje\StajProje\obj\Debug\StajProje.exe
+C:\Users\ahmet.albayrak\Documents\Visual Studio 2013\Projects\StajProje\StajProje\obj\Debug\StajProje.pdb
+C:\Users\ahmet.albayrak\Documents\Visual Studio 2013\Projects\StajProje\StajProje\bin\Debug\StajProje.exe
+C:\Users\ahmet.albayrak\Documents\Visual Studio 2013\Projects\StajProje\StajProje\bin\Debug\StajProje.pdb
+C:\Users\ahmet.albayrak\Documents\Visual Studio 2013\Projects\StajProje\StajProje\obj\Debug\StajProje.DersEkle.resources
+C:\Users\ahmet.albayrak\Documents\Visual Studio 2013\Projects\StajProje\StajProje\obj\Debug\StajProje.DersSecim.resources
+C:\Users\ahmet.albayrak\Documents\Visual Studio 2013\Projects\StajProje\StajProje\obj\Debug\StajProje.GirisEkrani.resources
+C:\Users\ahmet.albayrak\Documents\Visual Studio 2013\Projects\StajProje\StajProje\obj\Debug\StajProje.KayıtEkle.resources
+C:\Users\ahmet.albayrak\Documents\Visual Studio 2013\Projects\StajProje\StajProje\obj\Debug\StajProje.Memur.resources
+C:\Users\ahmet.albayrak\Documents\Visual Studio 2013\Projects\StajProje\StajProje\obj\Debug\StajProje.NotGiris.resources
+C:\Users\ahmet.albayrak\Documents\Visual Studio 2013\Projects\StajProje\StajProje\obj\Debug\StajProje.Ogrenci.resources
+C:\Users\ahmet.albayrak\Documents\Visual Studio 2013\Projects\StajProje\StajProje\obj\Debug\StajProje.Ogretmen.resources
+C:\Users\ahmet.albayrak\Documents\Visual Studio 2013\Projects\StajProje\StajProje\obj\Debug\StajProje.Properties.Resources.resources
+C:\Users\ahmet.albayrak\Documents\Visual Studio 2013\Projects\StajProje\StajProje\obj\Debug\StajProje.Veli.resources
+C:\Users\ahmet.albayrak\Documents\Visual Studio 2013\Projects\StajProje\StajProje\obj\Debug\StajProje.csproj.GenerateResource.Cache
+C:\Users\ahmet.albayrak\Documents\Visual Studio 2013\Projects\StajProje\StajProje\obj\Debug\StajProje.csprojResolveAssemblyReference.cache
+C:\Users\ahmet.albayrak\Desktop\son yedek\StajProje\bin\Debug\StajProje.exe.config
+C:\Users\ahmet.albayrak\Desktop\son yedek\StajProje\obj\Debug\StajProje.exe
+C:\Users\ahmet.albayrak\Desktop\son yedek\StajProje\obj\Debug\StajProje.pdb
+C:\Users\ahmet.albayrak\Desktop\son yedek\StajProje\bin\Debug\StajProje.exe
+C:\Users\ahmet.albayrak\Desktop\son yedek\StajProje\bin\Debug\StajProje.pdb
+C:\Users\ahmet.albayrak\Desktop\son yedek\StajProje\obj\Debug\StajProje.csprojResolveAssemblyReference.cache
+C:\Users\ahmet.albayrak\Desktop\son yedek\StajProje\obj\Debug\StajProje.DersEkle.resources
+C:\Users\ahmet.albayrak\Desktop\son yedek\StajProje\obj\Debug\StajProje.DersSecim.resources
+C:\Users\ahmet.albayrak\Desktop\son yedek\StajProje\obj\Debug\StajProje.GirisEkrani.resources
+C:\Users\ahmet.albayrak\Desktop\son yedek\StajProje\obj\Debug\StajProje.KayıtEkle.resources
+C:\Users\ahmet.albayrak\Desktop\son yedek\StajProje\obj\Debug\StajProje.Memur.resources
+C:\Users\ahmet.albayrak\Desktop\son yedek\StajProje\obj\Debug\StajProje.NotGiris.resources
+C:\Users\ahmet.albayrak\Desktop\son yedek\StajProje\obj\Debug\StajProje.Ogrenci.resources
+C:\Users\ahmet.albayrak\Desktop\son yedek\StajProje\obj\Debug\StajProje.Ogretmen.resources
+C:\Users\ahmet.albayrak\Desktop\son yedek\StajProje\obj\Debug\StajProje.Properties.Resources.resources
+C:\Users\ahmet.albayrak\Desktop\son yedek\StajProje\obj\Debug\StajProje.Veli.resources
+C:\Users\ahmet.albayrak\Desktop\son yedek\StajProje\obj\Debug\StajProje.csproj.GenerateResource.Cache

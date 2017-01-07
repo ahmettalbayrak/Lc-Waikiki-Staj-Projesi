@@ -1,0 +1,190 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8061EF90-9DF6-4B13-A284-1C138BB2497E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>StajProje</RootNamespace>
+    <AssemblyName>StajProje</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Bolum.cs" />
+    <Compile Include="Cinsiyet.cs" />
+    <Compile Include="DbConncection.cs" />
+    <Compile Include="DersEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DersEkle.Designer.cs">
+      <DependentUpon>DersEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dersler.cs" />
+    <Compile Include="DersSecim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DersSecim.Designer.cs">
+      <DependentUpon>DersSecim.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fakulte.cs" />
+    <Compile Include="GecmisEgitim.cs" />
+    <Compile Include="GirisEkrani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GirisEkrani.Designer.cs">
+      <DependentUpon>GirisEkrani.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KayıtEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KayıtEkle.Designer.cs">
+      <DependentUpon>KayıtEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kisisel.cs" />
+    <Compile Include="KullaniciTipi.cs" />
+    <Compile Include="MedeniDurum.cs" />
+    <Compile Include="Memur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Memur.Designer.cs">
+      <DependentUpon>Memur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MemurTablo.cs" />
+    <Compile Include="NotGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NotGiris.Designer.cs">
+      <DependentUpon>NotGiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NotlarTablo.cs" />
+    <Compile Include="Ogrenci.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ogrenci.Designer.cs">
+      <DependentUpon>Ogrenci.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OgrenciTablo.cs" />
+    <Compile Include="Ogretmen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ogretmen.Designer.cs">
+      <DependentUpon>Ogretmen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OgretmenTablo.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StajyerTestDBDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>StajyerTestDBDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Veli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Veli.Designer.cs">
+      <DependentUpon>Veli.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VeliTablo.cs" />
+    <EmbeddedResource Include="DersEkle.resx">
+      <DependentUpon>DersEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DersSecim.resx">
+      <DependentUpon>DersSecim.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GirisEkrani.resx">
+      <DependentUpon>GirisEkrani.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KayıtEkle.resx">
+      <DependentUpon>KayıtEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Memur.resx">
+      <DependentUpon>Memur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NotGiris.resx">
+      <DependentUpon>NotGiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ogrenci.resx">
+      <DependentUpon>Ogrenci.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ogretmen.resx">
+      <DependentUpon>Ogretmen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Veli.resx">
+      <DependentUpon>Veli.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="StajyerTestDBDataSet.xsc">
+      <DependentUpon>StajyerTestDBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="StajyerTestDBDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>StajyerTestDBDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="StajyerTestDBDataSet.xss">
+      <DependentUpon>StajyerTestDBDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
